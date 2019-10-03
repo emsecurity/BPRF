@@ -8,7 +8,7 @@ public class Test {
 	
 	public static void main (String args[])
 	{
-		int iterations = 100;
+		int iterations = 1000;
 		int t1 = 0,t2=0,t3=0;
 		Pairing pairing = PairingFactory.getPairing("param/d159.properties");
 				
